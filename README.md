@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML Algorithms.
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on ..research on Machine learning Algorithms.
-- 📫 How to reach me LinkedIn as PG
+- 📫 How to reach me LinkedIn as PoornimaGowda
 
 <!---
 Poornima21Gowda/Poornima21Gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
